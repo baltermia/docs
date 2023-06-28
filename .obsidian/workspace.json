@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "fde2c6af2d36c5bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a61c59fcc815eac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c82f87b92ceaaca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb68436691daf22b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b8039aff810eb24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61882740b5f6e77d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d77b948a0ef2e450",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98788deb6ae2f86c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "758845929471b654",
+    "type": "split",
+    "children": [
+      {
+        "id": "273a4ebbb69cd7dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e596e7171c3c2e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20c8c86849b2fd29",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b1f86c393ea07c0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "789dfe0794ea77ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open this week": false
+    }
+  },
+  "active": "61882740b5f6e77d",
+  "lastOpenFiles": [
+    "Software-Design/SOLID/SOLID.md",
+    "Software-Design/SOLID/Single Responsibility Principle.md",
+    "Software-Design/SOLID/Dependency Inversion Principle.md",
+    "Software-Design/SOLID/Open Closed Principle.md",
+    "Software-Design/SOLID/Liskov's Substitution Principle.md",
+    "Software-Design/SOLID/Interface Segregation Principle.md",
+    "Software-Design/SOLID",
+    "Software-Design/Design Patterns/Behavioral/Visitor.md",
+    "Software-Design/Design Patterns/Behavioral/Template Method.md",
+    "Software-Design/Design Patterns/Behavioral/Strategy.md",
+    "Software-Design/Design Patterns/Behavioral/State.md",
+    "Software-Design/Design Patterns/Behavioral/Observer.md",
+    "Software-Design/Design Patterns/Behavioral/Null Object.md",
+    "Software-Design/Design Patterns/Behavioral/Memento.md",
+    "Software-Design/Design Patterns/Behavioral/Mediator.md",
+    "Software-Design/Design Patterns/Behavioral/Iterator.md",
+    "Software-Design/Design Patterns/Behavioral/Command.md",
+    "Software-Design/Design Patterns/Behavioral/Chain of Responsibility.md",
+    "Software-Design/Design Patterns/Behavioral/Behavioral.md",
+    "Software-Design/Design Patterns/Structural/Structural.md",
+    "Software-Design/Design Patterns/Structural/Proxy.md",
+    "Software-Design/Design Patterns/Structural/Flyweight.md",
+    "Software-Design/Design Patterns/Structural/Decorator.md",
+    "Software-Design/Design Patterns/Structural/Facade.md",
+    "Software-Design/Design Patterns/Structural/Composite.md",
+    "Software-Design/Design Patterns/Structural/Bridge.md",
+    "Software-Design/Design Patterns/Structural/Adapter.md",
+    "Software-Design/Design Patterns/Resource/strategy.svg",
+    "Software-Design/Design Patterns/Resource/proxy.svg",
+    "Software-Design/Design Patterns/Resource/mediator.svg",
+    "Software-Design/Design Patterns/Resource/facade.svg",
+    "Software-Design/Design Patterns/Resource/decorator.svg",
+    "Software-Design/Design Patterns/Resource/command.svg",
+    "Software-Design/Design Patterns/Resource/composite.svg",
+    "Software-Design/Design Patterns/Resource/bridge.svg",
+    "Software-Design/Design Patterns/Resource/adapter.svg",
+    "Software-Design/Design Patterns/Resource/abstract factor.svg",
+    "Software-Design/Design Patterns/Behavioral",
+    "Software-Design/Design Patterns/Structural",
+    "Software-Design/Design Patterns/Resource",
+    "Software-Design/Design Patterns/Creational",
+    "Software-Design/Design Patterns",
+    "Software-Design/UML",
+    "Software-Design/Principles/SOLID",
+    "Software-Design/Principles/Design Patterns/Structural",
+    "Software-Design/Principles/Design Patterns/Resource"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "path:-Config",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Computer Science\"",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "file:README",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Work",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:School",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:Config",
+      "color": {
+        "a": 1,
+        "rgb": 16747146
+      }
+    },
+    {
+      "query": "path:Personal",
+      "color": {
+        "a": 1,
+        "rgb": 6349423
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.7,
+  "nodeSizeMultiplier": 1.23076923076923,
+  "lineSizeMultiplier": 0.97948717948718,
+  "collapse-forces": true,
+  "centerStrength": 0.136752136752137,
+  "repelStrength": 13.8461538461538,
+  "linkStrength": 0.837606837606838,
+  "linkDistance": 211,
+  "scale": 0.07754305084870788,
+  "close": true
+}
