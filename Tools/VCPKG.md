@@ -1,10 +1,3 @@
-# VCPKG
----
-```toc
-title: ""
-```
----
-
 > vcpkg is a free C/C++ package manager for acquiring and managing libraries.
 
 vcpkg is a open-source dependency manager developed by Microsoft for C/C++. It is similar to NuGet for .NET.
@@ -37,10 +30,6 @@ setx VCPKG_DEFAULT_TRIPLET "x64-windows"
 
 # Disable defalut metrics
 setx VCPKG_DISABLE_METRICS "true"
-
-# Set proxy (trumpf in this case)
-setx HTTP_PROXY "172.17.7.191:80"  
-setx HTTPS_PROXY "172.17.7.191:80"
 
 # Integrate vcpkg
 vcpkg integrate powershell
@@ -75,8 +64,6 @@ Therefore, you need to set the curl-proxy for vcpkg to work on your machine:
 setx HTTP_PROXY "<proxy>"  
 setx HTTPS_PROXY "<proxy>"
 ```
-
-Just fill your proxy in as `<proxy>`: *172.17.7.191:80*
 
 ### Disable metrics
 vcpkg sends anonymous data to Microsoft by default. No one wants that, you can disable metrics with another environment-variable (which is not set, obviously Microsoft):
